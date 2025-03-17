@@ -1,0 +1,18 @@
+What is GitHub?
+GitHub combines Git, a powerful version control system, with features that facilitate collaboration and project management.
+
+Here are some key points to understand about GitHub:
+
+Version Control: GitHub uses Git, a distributed version control system that tracks changes to your code. Git allows multiple developers to work on a project simultaneously without overwriting each other’s changes. It keeps a history of all changes, making it easy to revert to previous versions if needed.
+Collaboration: GitHub is designed for collaborative work. It allows multiple people to contribute to a project, review code, discuss issues, and merge changes efficiently. This makes it an ideal platform for open-source projects and team-based development.
+Project Management: GitHub provides tools for managing your projects, such as issues, pull requests, and project boards. These features help you keep track of tasks, bugs, and enhancements, making it easier to manage your project’s workflow.
+Key Features of GitHub
+Repositories: A repository (or repo) is where your project lives. It contains all your project’s files and the history of all changes made to those files. You can create a new repository on GitHub to start a new project or to host an existing one.
+Branching: Branches allow you to work on different versions of a project simultaneously. The main branch, often called “main” or “master,” is the default branch. You can create new branches to develop features or fix bugs without affecting the main branch.
+Pull Requests: A pull request (PR) is a way to propose changes to a repository. When you create a pull request, you are requesting that someone review and merge your changes into the main branch. Pull requests are essential for code reviews and collaborative development.
+Issues: Issues are used to track tasks, enhancements, and bugs. You can assign issues to team members, add labels for categorization, and link issues to pull requests.
+Actions: GitHub Actions allow you to automate your workflows. You can set up CI/CD (Continuous Integration and Continuous Deployment) pipelines to test and deploy your code automatically.
+Getting Started with GitHub
+Step 1:  Go to the Website
+
+Go to the GitHub website and click the Sign-up button.
